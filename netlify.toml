@@ -1,5 +1,5 @@
 [build]
-  base = "frontend"
+  base = "hackerkernol-assignment"
   command = "npm run build"
   publish = ".next"
 
